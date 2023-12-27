@@ -16,6 +16,6 @@ public interface CitizenPlanRepository extends JpaRepository<CitizenPlan, Intege
 	public List<String> getPlanStatus();
 
 
-int i =10;
+
 	
 }
