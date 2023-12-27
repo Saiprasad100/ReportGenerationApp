@@ -29,8 +29,6 @@ public class CitizenPlan {
 	private String deniedReason;
 	private LocalDate terminatedDate;
 	private String terminationReason;
-
-private String Job;
 	
 		
 	}
