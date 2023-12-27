@@ -15,7 +15,7 @@ public interface CitizenPlanRepository extends JpaRepository<CitizenPlan, Intege
 	@Query("select distinct(planStatus) from CitizenPlan")
 	public List<String> getPlanStatus();
 
-
+String s= "Saiprasad";
 
 	
 }
